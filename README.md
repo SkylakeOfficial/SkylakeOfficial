@@ -4,6 +4,7 @@
 ![Modeling](https://img.shields.io/badge/Modeling-99e83f.svg)
 ![Rigging](https://img.shields.io/badge/Rigging-99e83f.svg)
 ![3DAnim](https://img.shields.io/badge/3D%20Animation-99e83f.svg)
+![Texturing](https://img.shields.io/badge/Texturing-99e83f.svg)
 ![GameLogic](https://img.shields.io/badge/Game%20Logic%20and%20Level%20Scripting-0078d4.svg)
 ![Shader](https://img.shields.io/badge/Shader%20Lang-ffdb00.svg)
 ![AnimTA](https://img.shields.io/badge/Technical%20Artist%20of%20Animation-ff0000.svg)
